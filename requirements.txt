@@ -1,0 +1,7 @@
+torch
+torchvision 
+segmentation-models-pytorch
+numpy
+pandas
+pillow
+opencv-python
